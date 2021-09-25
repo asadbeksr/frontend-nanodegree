@@ -1,4 +1,5 @@
-# frontend-nanodegree
+# Front End Developer Nanodegree Program
+
 Frontend Nanodegree Projects 5
 
 [Personal Blog Website](https://github.com/bekdevuz/portfolio-project-1)
